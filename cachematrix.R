@@ -5,7 +5,7 @@
 ## makeCacheMatrix takes a square matrix, but is really a function of
 ## functions such that cacheSolve can access the functions within
 
-## the makeCacheMatrix function allows the caller to get the matrix, set it, 
+## The makeCacheMatrix function allows the caller to get the matrix, set it, 
 ## as well as set the inverse and get it.  It will also store the inverse of 
 ## the last calculated inverse such that it can be skipped by cacheSolve
 
